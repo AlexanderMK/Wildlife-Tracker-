@@ -4,7 +4,7 @@ Wildlife Tracker
 ## Features
 This app will help rangers log sightings for animals that may or may not be endangered.
 
-![screenshot of project](wildlife-tracker.jpg)
+![screenshot of project](wildlife-tracker.jpeg)
 
 ## Technologies
 Java, JUnit, Gradle, Spark, PSQL
