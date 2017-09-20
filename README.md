@@ -12,7 +12,7 @@ Java, JUnit, Gradle, Spark, PSQL
 ## Usage
 To use the code, you can clone the repository at: [
 * $ git clone
-* $ cd java-project4 (Skip to database instructions below.)
+* $ cd Wildlife-Tracker-IP4 (Skip to database instructions below.)
 * $ gradle run
 * Go to localhost:4567 in your browser
 
